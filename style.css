@@ -1,0 +1,327 @@
+
+.body{
+    background-color:#ebfde1;
+}
+
+
+.cadastro-container{
+    
+    background-size:cover;
+    height:100px;
+    width: 700px;
+    border-radius:25px;
+    border-color:#808782;
+    border-style:double;
+    border-width:4,5px;
+    margin-left: 290px;
+    margin-right: 40px;
+}
+
+.cadastro-titulo{
+    font-size: 32px;
+    background: linear-gradient(to right, #3e803c 0%, #2fb380 100%);    
+    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cadastro-subtítulo{
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+
+
+.video{
+    width: 400px;
+    height: 300px;
+    border-color: lawngreen;
+    border-style:double;
+    border-width:5px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+    margin-top:20px;
+    
+}
+
+.quadrado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    margin-top:20px;
+    width: 20px;
+    margin-left: 30%;
+
+}
+
+.nome{
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+.sobrenome{
+    margin-left: 30px;
+    margin-right: 40px;
+
+}
+
+
+.email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+
+.bolinhas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    margin-top: 20px;
+
+}
+
+.classes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+
+.botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    margin-top: 20px;
+
+
+}
+
+/* pagina dos mamiferos*/
+
+.main-header{
+    border: 2px solid black;
+    position: sticky;
+    top: 0;
+    background-color: #ab1b13;
+    opacity: 80%;
+}
+
+/* parte de cimma que anda com a pagina */
+
+.lista-header{
+    display: flex;
+    border: 2px #ab1b13 solid;
+    background-color: #ab1b13;
+ 
+}
+
+.header-list-item{
+    margin-right: 40px;
+}
+
+.pag{
+    color:white;
+}
+
+/* textos e imagens */
+
+.img1{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.box-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-texto-1{
+    margin-left: 20px;
+
+}
+
+
+.subtítulo-1{
+
+
+}
+
+.text-subtitulo-1{
+    
+
+}
+
+.box-texto-2{
+    margin-top: 50px;
+}
+
+
+.box-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.img-2{
+    width: 800px;
+    height: 380px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+
+
+/* aves */
+
+.main-header-aves{
+    border: 2px solid black;
+    position: sticky;
+    top: 0;
+    background-color: #ab1b13;
+    opacity: 80%;
+
+}
+
+.lista{
+    display: flex;
+    border: 2px #ab1b13 solid;
+    background-color: #ab1b13;
+
+}
+
+.header-list{
+    margin-right: 40px;
+
+}
+
+.pag{
+    color:white;
+}
+
+
+.main-div-aves{
+    display: flex;
+
+}
+
+.img-1{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+
+.caract{
+    margin-left: 10px;
+}
+
+.img-2{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+
+.box-3{
+    display: flex;
+
+}
+
+.img-3{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.text-3{
+    margin-left: 40px;
+}
+
+/* peixes */
+
+.header-fish{
+    border: 2px solid black;
+    position: sticky;
+    top: 0;
+    background-color: #ab1b13;
+    opacity: 80%;
+
+}
+
+.header-fish-lista{
+    display: flex;
+    border: 2px #ab1b13 solid;
+    background-color: #ab1b13;
+
+}
+
+.header-list{
+    margin-right: 40px;
+
+}
+
+pag{
+    color:white;
+}
+
+
+.dori{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.nemo{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.golfinho{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.peixes-2{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+
+.bloco-unico{
+    display:flex;
+}
+
+.text{
+    margin-left: 20px;
+}
+
+.text-2{
+    display: flex;
+}
